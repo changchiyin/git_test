@@ -28,8 +28,5 @@ int main(){
     return 0;
 }
 
-<<<<<<< HEAD
 //this is master
-=======
 //this is test
->>>>>>> test
